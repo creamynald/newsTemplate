@@ -1,0 +1,11 @@
+    <!-- All Javascripts -->
+    <script src="{{ asset('frontend/newsTemplate/js/jquery-3.6.0.min.js') }}"></script>
+    <script src="{{ asset('frontend/newsTemplate/js/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('frontend/newsTemplate/js/jquery-ui.js') }}"></script>
+    <script src="{{ asset('frontend/newsTemplate/js/jquery.magnific-popup.min.js') }}"></script>
+    <script src="{{ asset('frontend/newsTemplate/js/owl.carousel.min.js') }}"></script>
+    <script src="{{ asset('frontend/newsTemplate/js/wow.min.js') }}"></script>
+    <script src="{{ asset('frontend/newsTemplate/js/select2.full.js') }}"></script>
+    <script src="{{ asset('frontend/newsTemplate/js/sweetalert2.min.js') }}"></script>
+    <script src="{{ asset('frontend/newsTemplate/js/jquery.waypoints.min.js') }}"></script>
+    <script src="{{ asset('frontend/newsTemplate/js/acmeticker.js') }}"></script>
